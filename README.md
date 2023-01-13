@@ -69,5 +69,3 @@ If you are interested in financial support, you can send a message through Gmail
 gmail: goldaaa.program@gmail.com
 
 [github sqlite](https://github.com/goldaaa/sqlite)
-
-If you Arab speaking friends need to use it, let me know so that I can apply it for you too.
