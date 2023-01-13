@@ -9,9 +9,7 @@ You can also install from this repository.
 
     git clone https://github.com/goldaaa/sqlite.git
 
-Then, install the library with
 
-    python setup.py install
 
 
 Importing
